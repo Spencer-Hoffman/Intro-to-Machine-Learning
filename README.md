@@ -1,2 +1,2 @@
 # Intro-to-Machine-Learning
-Code for assignments in Rowan ECE 09495
+Collection of code for assignments for Rowan University ECE09495
